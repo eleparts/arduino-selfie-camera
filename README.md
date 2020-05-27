@@ -13,10 +13,10 @@ https://github.com/moononournation/arduino-selfie-camera
 ## TTGO - T-Camera Plus / Rear camear  
 
 전면 사진  
-![Prototype](https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/TTGO-T-Camera-Plus-front.jpg)  
+<img src="https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/TTGO-T-Camera-Plus-front.jpg" width="70%"></img>
 
 후면 사진  
-![Prototype](https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/TTGO-T-Camera-Plus-back.jpg)  
+<img src="https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/TTGO-T-Camera-Plus-back.jpg" width="70%"></img>
 
 ## 예제 설치 및 실행방법 참고  
 
