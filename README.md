@@ -24,8 +24,9 @@ https://github.com/moononournation/arduino-selfie-camera
 https://www.instructables.com/id/Arduino-Selfie-Camera/  
 
 아두이노 IDE 설치 후 보드매니저를 통해 ESP32 시리즈를 추가해 줍니다.  
-※ 참고 포스팅 : https://blog.naver.com/elepartsblog/221533983571
-보드 URL : https://dl.espressif.com/dl/package_esp32_index.json 
+
+※ 참고 포스팅 : https://blog.naver.com/elepartsblog/221533983571  
+ESP32 보드 URL : https://dl.espressif.com/dl/package_esp32_index.json  
 
 그리고 "ESP32 Dev Board" 선택하고 PSRAM를 Enabled 후 업로드 해 주시면 됩니다.  
 부팅(및 재부팅/Reset 버튼) 후 자동으로 3번 사진을 촬영하며, 자동으로 SD카드에 저장됩니다.  
