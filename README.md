@@ -18,12 +18,13 @@ https://github.com/moononournation/arduino-selfie-camera
 후면 사진  
 <img src="https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/TTGO-T-Camera-Plus-back.jpg" width="70%"></img>
 
-## 예제 설치 및 실행방법 참고  
-
-Please find more details at instructables
+## Usage  
 
 예제 설치 및 사용법 (eng)  
-https://www.instructables.com/id/Arduino-Selfie-Camera/
+https://www.instructables.com/id/Arduino-Selfie-Camera/  
+
+아두이노 IDE 설치 후 보드매니저를 통해 ESP32 시리즈를 추가, "ESP32 Dev Board" 선택하고 PSRAM를 Enabled 후 업로드 해 주시면 됩니다.  
+부팅(및 재부팅/Reset 버튼) 후 자동으로 3번 사진을 촬영하며, 자동으로 SD카드에 저장됩니다.  
 
 촬영 이미지  
 ![Prototype](https://raw.githubusercontent.com/eleparts/arduino-selfie-camera-rear-ver/master/img/snap-rear-camera.jpg)  
